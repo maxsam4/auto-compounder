@@ -1,0 +1,12 @@
+{
+  "name": "auto-compounder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxsam4/auto-compounder.git",
+  "author": "Mudit Gupta <hi@mudit.blog>",
+  "license": "GPL3",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "hardhat": "^2.4.3"
+  }
+}
